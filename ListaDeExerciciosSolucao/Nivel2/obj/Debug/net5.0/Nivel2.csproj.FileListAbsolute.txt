@@ -1,0 +1,64 @@
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.exe
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.deps.json
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.json
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.dev.json
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.dll
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\ref\Nivel2.dll
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.pdb
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.csproj.AssemblyReference.cache
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfoInputs.cache
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfo.cs
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.dll
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\ref\Nivel2.dll
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.pdb
+C:\Users\TEMP.ETEHORT.164\Documents\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.genruntimeconfig.cache
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.csproj.AssemblyReference.cache
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfoInputs.cache
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfo.cs
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.dll
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\ref\Nivel2.dll
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.pdb
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.exe
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.deps.json
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.json
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.dev.json
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.dll
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\ref\Nivel2.dll
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.pdb
+C:\Users\TEMP.ETEHORT.164\Videos\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.genruntimeconfig.cache
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.exe
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.deps.json
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.json
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.dev.json
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.dll
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\ref\Nivel2.dll
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.pdb
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.csproj.AssemblyReference.cache
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfoInputs.cache
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfo.cs
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.dll
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\ref\Nivel2.dll
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.pdb
+C:\Users\TEMP.ETEHORT.000\Desktop\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.genruntimeconfig.cache
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.csproj.AssemblyReference.cache
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfoInputs.cache
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.AssemblyInfo.cs
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.csproj.CoreCompileInputs.cache
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.dll
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\ref\Nivel2.dll
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.pdb
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.exe
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.deps.json
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.json
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.runtimeconfig.dev.json
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.dll
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\ref\Nivel2.dll
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\bin\Debug\net5.0\Nivel2.pdb
+D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel2\obj\Debug\net5.0\Nivel2.genruntimeconfig.cache
