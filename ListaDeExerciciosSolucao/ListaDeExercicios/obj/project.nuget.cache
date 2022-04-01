@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rsA56b+McbD9vvS9fFd96uPC2IABUuTK/xVXzsSJ33EqH60xuBBbcc2w20Rd8OT4bCc2GyA/1DwL5jAEpNt8ng==",
+  "dgSpecHash": "rtvdmx1+sU3OdEfDgt7N32+ICHXcGn8BhHg4QbsEPj/59XWEd7wT+9qV1mxboZ0YSi/NZ5uMENS0wpsyd08S8A==",
   "success": true,
-  "projectFilePath": "D:\\Estudo&Treino\\Git´s In Hub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\ListaDeExerciciosSolucao\\ListaDeExercicios\\Nivel1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jogad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\alunos\\Desktop\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\ListaDeExercicios\\Nivel1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

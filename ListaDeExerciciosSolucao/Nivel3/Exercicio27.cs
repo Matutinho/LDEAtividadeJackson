@@ -1,46 +1,42 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Nivel3
 {
     class Exercicio27
     {
-        static void Main(string[] args)
+        static void Main27(string[] args)
         {
             int qtdNumeros;
-            int numFatorial;
-            int contFatorial;
-            int calcFatorial;
-            string tabFatorial;
+            int valNum1;
+            int numFatorial = 1;
+            string concResultado = "";
 
-            Console.WriteLine("Quantos números vão ser calculados: ");
+            Console.WriteLine("Insira a quantos números serão calculados: ");
             qtdNumeros = int.Parse(Console.ReadLine());
 
-            for (int i = qtdNumeros; i > 0; i--)
+            for (int i = 1; i <= qtdNumeros; i++)
             {
-                Console.WriteLine("Insira um valor para calcular o fatorial: ");
-                numFatorial = int.Parse(Console.ReadLine());
-                contFatorial = numFatorial;
+                Console.WriteLine("\nInsira o valor para calcular o fatorial: ");
+                valNum1 = int.Parse(Console.ReadLine());
 
-                switch (numFatorial)
+
+                for (int c = valNum1; c > 0; c--)
                 {
-                    case > 0:
-                        for (int c = 0; c < contFatorial; c++)
-                        {
-                            numFatorial *= c;
-                            Console.WriteLine($"{numFatorial}");
-                        }
-                        Console.WriteLine($"{numFatorial}");
-                        break;
-
-                    default:
-                        break;
-
+                    numFatorial *= c;
+                    concResultado += c.ToString() + " * ";
+                    if (c == 1)
+                    {
+                        concResultado += " = " + numFatorial.ToString();
+                        Console.WriteLine($"\n{i}º número fatorial: {concResultado}\n");
+                        concResultado = "";
+                        numFatorial = 1;
+                    }
+                    
                 }
             }
+
+
         }
     }
 }
