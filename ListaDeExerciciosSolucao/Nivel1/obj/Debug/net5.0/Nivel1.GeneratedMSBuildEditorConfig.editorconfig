@@ -3,8 +3,12 @@ build_property.TargetFramework = net5.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
-build_property.InvariantGlobalization = 
-build_property.PlatformNeutralAssembly = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Nivel1
+<<<<<<< HEAD:ListaDeExerciciosSolucao/Nivel1/obj/Debug/net5.0/Nivel1.GeneratedMSBuildEditorConfig.editorconfig
 build_property.ProjectDir = D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel1\
+=======
+build_property.ProjectDir = C:\Users\alunos\Desktop\LDEAtividadeJackson\ListaDeExerciciosSolucao\ListaDeExercicios\
+>>>>>>> c2b79ff709a7fbd7d88f9aa9c2992f7cf66d4bca:ListaDeExerciciosSolucao/ListaDeExercicios/obj/Debug/net5.0/Nivel1.GeneratedMSBuildEditorConfig.editorconfig

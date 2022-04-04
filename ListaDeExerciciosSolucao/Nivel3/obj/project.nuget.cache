@@ -1,10 +1,17 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "XQFya/VYh37TyBEofbIQ4FVvKD8io/cBVfGT1Q5KbDrFfRP2XLw4lpT6BNO7cQW9Y1UkpZO3XC7n7JttAnGqrA==",
   "success": true,
   "projectFilePath": "D:\\EstudoTreino\\GitHub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jogad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "qet5YWZUleBLpTCwv493v0Ns9lTpUNIK9+2shGbwoQ1C65lIjhvBIGEzUsQam4Z2FjadcLURngzCA7PWqXctJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alunos\\Desktop\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> c2b79ff709a7fbd7d88f9aa9c2992f7cf66d4bca
   "logs": []
 }
