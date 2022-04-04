@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudo&Treino\\Git´s In Hub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj": {}
+    "D:\\EstudoTreino\\GitHub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj": {}
   },
   "projects": {
-    "D:\\Estudo&Treino\\Git´s In Hub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj": {
+    "D:\\EstudoTreino\\GitHub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo&Treino\\Git´s In Hub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj",
+        "projectUniqueName": "D:\\EstudoTreino\\GitHub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj",
         "projectName": "Nivel3",
-        "projectPath": "D:\\Estudo&Treino\\Git´s In Hub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj",
+        "projectPath": "D:\\EstudoTreino\\GitHub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel3\\Nivel3.csproj",
         "packagesPath": "C:\\Users\\jogad\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo&Treino\\Git´s In Hub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\ListaDeExerciciosSolucao\\Nivel3\\obj\\",
+        "outputPath": "D:\\EstudoTreino\\GitHub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,3 +14,19 @@ D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\List
 D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\ref\Nivel3.dll
 D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.pdb
 D:\Estudo&Treino\Git´s In Hub\AtividadesEtec\AtividadeDS\ListaDeExercicios\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.genruntimeconfig.cache
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\bin\Debug\net5.0\Nivel3.exe
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\bin\Debug\net5.0\Nivel3.deps.json
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\bin\Debug\net5.0\Nivel3.runtimeconfig.json
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\bin\Debug\net5.0\Nivel3.runtimeconfig.dev.json
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\bin\Debug\net5.0\Nivel3.dll
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\bin\Debug\net5.0\ref\Nivel3.dll
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\bin\Debug\net5.0\Nivel3.pdb
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.csproj.AssemblyReference.cache
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.AssemblyInfoInputs.cache
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.AssemblyInfo.cs
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.csproj.CoreCompileInputs.cache
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.dll
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\ref\Nivel3.dll
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.pdb
+D:\EstudoTreino\GitHub\AtividadesEtec\AtividadeDS\ListaDeExercicios\LDEAtividadeJackson\ListaDeExerciciosSolucao\Nivel3\obj\Debug\net5.0\Nivel3.genruntimeconfig.cache
