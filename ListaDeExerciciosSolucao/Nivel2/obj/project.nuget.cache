@@ -1,17 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "nWAuiEEs8Pey3Q5oKiBVN+0azGZxfSYm2FUJtnjfzRXzjhIruNnIqSJ7SsC66q5Cd8gCRDTscj5VemL+oq3KGw==",
   "success": true,
   "projectFilePath": "D:\\EstudoTreino\\GitHub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel2\\Nivel2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jogad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "Oqa9wxhBmH1Et5/no7x7S6GexMJoxTaHH8Wfl5zjBeym3qdf4RBgw4rqWJhmbyb/Ez0HfX3+tEjGaa14lLHmmQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\alunos\\Desktop\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel2\\Nivel2.csproj",
-  "expectedPackageFiles": [],
->>>>>>> c2b79ff709a7fbd7d88f9aa9c2992f7cf66d4bca
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache D:\\EstudoTreino\\GitHub\\AtividadesEtec\\AtividadeDS\\ListaDeExercicios\\LDEAtividadeJackson\\ListaDeExerciciosSolucao\\Nivel2\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
